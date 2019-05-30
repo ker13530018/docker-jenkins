@@ -2,7 +2,7 @@
 
 First thing you should build a custom Jenkins image. Please follow this command below.
 
-```bash
+```console
 
 $ docker-compose build
 
@@ -12,7 +12,7 @@ $ docker-compose build
 
 Next step after you have Jenkins image, create a container follow this command below.
 
-```bash
+```console
 
 $ docker-compose up -d
 
